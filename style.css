@@ -4,6 +4,8 @@
 	box-sizing: border-box;
   position: relative;
 	font-family: sans-serif;
+	overflow: scroll;
+-webkit-overflow-scrolling: touch;
 }
 
 body{
